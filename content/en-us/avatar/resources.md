@@ -1,4 +1,4 @@
----
+/---
 title: Resources
 description: Get all the resources you need to build characters and accessories.
 hideInPageNavigation: true
